@@ -22,7 +22,7 @@ Sou um desenvolvedor iniciante com foco em aprender fazendo. Gosto de explorar d
 - Desenvolvimento de aplicações
 
 ## 📫 Contato
-- (adicione aqui seu LinkedIn futuramente)
+- (www.linkedin.com/in/eliezer-leandro)
 
 ---
 ⭐ Em constante evolução
