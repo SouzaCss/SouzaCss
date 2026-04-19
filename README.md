@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eliezer
 
-<!--
-**SouzaCss/SouzaCss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em aprendizado contínuo  
+🚀 Focado em criar projetos práticos e evoluir na programação  
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
+Sou um desenvolvedor iniciante com foco em aprender fazendo. Gosto de explorar diferentes tecnologias e transformar ideias em código, buscando sempre melhorar minha lógica e organização nos projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- C#
+- Python
+- JavaScript
+- C++
+- JSX
+
+## 📌 Projetos
+- 🧮 Calculadora em Python (meu primeiro projeto)
+
+## 📚 Atualmente aprendendo
+- Estruturas de dados
+- Boas práticas de programação
+- Desenvolvimento de aplicações
+
+## 📫 Contato
+- (adicione aqui seu LinkedIn futuramente)
+
+---
+⭐ Em constante evolução
