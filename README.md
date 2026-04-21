@@ -7,7 +7,6 @@
 #
 
 Me chamo Eliezer Souza e atualmente curso o Ensino Médio com Habilitação Profissional em Desenvolvimento de Sistemas pela ETEC de Hortolândia.
-
 Sou apaixonado por tecnologia e estou sempre buscando aprender mais por meio de projetos práticos e estudos contínuos. Tenho interesse tanto em desenvolvimento de software quanto em explorar diferentes áreas da tecnologia.
 
 #
@@ -35,8 +34,8 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais por meio de 
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouzaCss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SouzaCss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SouzaCss&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SouzaCss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
 ###
