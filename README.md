@@ -33,9 +33,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais por meio de 
 
 #
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SouzaCss&theme=dracula" />
-</div>
+
 
 ###
 
